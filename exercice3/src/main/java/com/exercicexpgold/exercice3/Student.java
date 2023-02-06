@@ -6,7 +6,7 @@ package com.exercicexpgold.exercice3;
 
 /**
  *
- * @author Konate-MK
+ * @author Adonis Dev 
  */
 
 public class Student {

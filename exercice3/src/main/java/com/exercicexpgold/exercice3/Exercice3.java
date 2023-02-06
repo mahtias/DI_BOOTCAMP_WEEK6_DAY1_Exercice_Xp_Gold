@@ -16,10 +16,10 @@ public class Exercice3 {
     Student student1 = new Student();
     student1.displayStudentInfo();
 
-    Student student2 = new Student("Kernel Mamadou K", 25);
+    Student student2 = new Student("Mariam Kobenan", 25);
     student2.displayStudentInfo();
 
-    Student student3 = new Student("Konate Mamadou", 27, "Computer Science", 'A');
+    Student student3 = new Student("Koudou", 27, "Computer Science", 'A');
     student3.displayStudentInfo();
     
     }
